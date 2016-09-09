@@ -9,7 +9,7 @@
 * [About](#about)
 
 ##Articles
-
+* [AMD's Jaguar Microarchitecture](http://www.realworldtech.com/jaguar/)
 * [The Cell Processor](http://www.blachford.info/computer/Cell/Cell0_v2.html) 
 * [Inside the Xbox 360, Part I](http://arstechnica.com/features/2005/05/xbox360-1/)
 * [Inside the Xbox 360, Part II: The Xenon CPU](http://arstechnica.com/features/2005/06/xbox360-2/)
