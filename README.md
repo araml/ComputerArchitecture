@@ -15,5 +15,5 @@
 * [Inside the Xbox 360, Part II: The Xenon CPU](http://arstechnica.com/features/2005/06/xbox360-2/)
 
 ##Videos
-
+* [When hardware must "just work": A look inside x86 CPU Design] (https://www.youtube.com/watch?v=eDmv0sDB1Ak)
 * [Carneggie Mellon Computer Architecture Courses](https://www.youtube.com/user/cmu18447/videos)
