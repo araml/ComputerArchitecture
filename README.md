@@ -1,6 +1,6 @@
 # ComputerArchitecture
 
-##Contents
+## Contents
 * [Videos](#videos)
 * [Talks](#Talks)
 * [Articles](#articles)
@@ -8,11 +8,11 @@
 * [Books](#books)
 * [About](#about)
 
-##Videos
-* [When hardware must "just work": A look inside x86 CPU Design] (https://www.youtube.com/watch?v=eDmv0sDB1Ak)
+## Videos
+* [When hardware must "just work": A look inside x86 CPU Design](https://www.youtube.com/watch?v=eDmv0sDB1Ak)
 * [Carneggie Mellon Computer Architecture Courses](https://www.youtube.com/user/cmu18447/videos)
 
-##Articles
+## Articles
 * [What Every Programmer Should Know About Memory (pdf)](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) [(html)](http://lwn.net/Articles/250967/)
 * [AMD's Jaguar Microarchitecture](http://www.realworldtech.com/jaguar/)
 * [The Cell Processor](http://www.blachford.info/computer/Cell/Cell0_v2.html) 
