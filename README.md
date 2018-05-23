@@ -20,4 +20,4 @@
 * [Inside the Xbox 360, Part II: The Xenon CPU](http://arstechnica.com/features/2005/06/xbox360-2/)
 
 ## Sites
-[System Verilog](https://www.systemverilog.io/)
+* [System Verilog](https://www.systemverilog.io/)
