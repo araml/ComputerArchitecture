@@ -1,4 +1,6 @@
-# ComputerArchitecture
+# Computer Architecture List
+
+Like awesome-lists but maybe not so awesome? A mix of interesting topics in computer architecture.
 
 ## Contents
 * [Videos](#videos)
